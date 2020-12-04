@@ -96,6 +96,7 @@ https://asunow.asu.edu/20161219-changing-face-engineering-female-students
 > “It’s important to recognize the value that diversity brings to teams of engineers who are engineering for a diverse population,” Roeger said.
 
 ## Honorable Mentions of the Look Twice, Save A Life Scholarship
+https://www.insuranceproviders.com/honorable-mentions-of-the-look-twice-save-a-life-scholarship/
 
 > Waverly Roeger – 2015 Submission
 >
