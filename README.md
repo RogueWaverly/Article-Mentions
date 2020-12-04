@@ -95,6 +95,25 @@ https://asunow.asu.edu/20161219-changing-face-engineering-female-students
 >
 > “It’s important to recognize the value that diversity brings to teams of engineers who are engineering for a diverse population,” Roeger said.
 
+## Honorable Mentions of the Look Twice, Save A Life Scholarship
+
+> Waverly Roeger – 2015 Submission
+>
+> [visual art]
+
+## Lux Undergraduate Creative Review | Volume 10, 2014
+https://barretthonors.asu.edu/sites/default/files/lux_vol10_2014.pdf
+
+> Lose Yourself
+>
+> *Waverly Roeger*
+>
+> [visual art]
+>
+> Pencil on Paper
+>
+> 8” x 7”
+
 ## Lubbock ISD Board of Trustees Assign HR Director, Recognize Students
 Allen Corbin
 
