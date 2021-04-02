@@ -4,9 +4,7 @@ A list of articles which mention or quote me.
 ## Insight: Algorithmic art in the digital age
 Sam Ellefson
 
-The State Press | September 14, 2020
-
-https://www.statepress.com/article/2020/09/specho-algorithmic-art-through-rise-of-technology
+[The State Press](https://www.statepress.com/article/2020/09/specho-algorithmic-art-through-rise-of-technology) | September 14, 2020
 
 > Waverly Roeger, an ASU alumna and software developer, said another exemplar of algorithmic art is Dutch graphic artist M.C. Escher, whose polygonal tessellations followed concrete geometric instructions to create optical illusions.
 >
@@ -15,26 +13,18 @@ https://www.statepress.com/article/2020/09/specho-algorithmic-art-through-rise-o
 > Using hardware in algorithmic art allows for heightened efficiency and accuracy, Roeger said, and both the algorithm itself and its output are artistic in nature and can raise questions pertaining to autonomy, fortuity and uniformity.
 
 ## Celebrating diversity and inclusion in tech
-Lawrence Livermore National Laboratory News | Holly Auten | November 2, 2018
-
-https://www.llnl.gov/news/celebrating-diversity-and-inclusion-tech
+[Lawrence Livermore National Laboratory News](https://www.llnl.gov/news/celebrating-diversity-and-inclusion-tech) | Holly Auten | November 2, 2018
 
 > GHC focuses on both technology and career development. The format encourages attendees to network and employers to recruit. Computation’s Amanda Minnich and Waverly Roeger were hired after connecting with LLNL staff at previous GHC conferences. This year, LLNL recruiters identified several candidates for interviews and potential offers. The Lab’s recruiting booth featured talks on HPC opportunities for undergraduates and mid-career women, the role computing plays in national security and the importance of diversity to teamwork at the Lab.
 
 ## Breaking barriers to diversity in computer science
 Joe Kullman
 
-Full Circle | November 18, 2016
+[Full Circle](https://fullcircle.asu.edu/students/breaking-barriers-diversity-computer-science/) | November 18, 2016
 
-https://fullcircle.asu.edu/students/breaking-barriers-diversity-computer-science/
+[ASU Office of Inclusion and Community Engagement](https://inclusion.asu.edu/content/breaking-barriers-diversity-computer-science) | November 23, 2016
 
-ASU Office of Inclusion and Community Engagement | November 23, 2016
-
-https://inclusion.asu.edu/content/breaking-barriers-diversity-computer-science
-
-ASU Now | November 23, 2016
-
-https://asunow.asu.edu/20161122-breaking-barriers-diversity-computer-science
+[ASU Now](https://asunow.asu.edu/20161122-breaking-barriers-diversity-computer-science) | November 23, 2016
 
 > Waverly Roeger, who will receive her bachelor's degree in the spring, was once one of those students.
 >
@@ -49,17 +39,11 @@ https://asunow.asu.edu/20161122-breaking-barriers-diversity-computer-science
 ## The changing face of engineering: Female students
 Monique Clement
 
-Full Circle | November 1, 2016
+[Full Circle](https://fullcircle.asu.edu/series/the-changing-face-of-engineering-female-students/) | November 1, 2016
 
-https://fullcircle.asu.edu/series/the-changing-face-of-engineering-female-students/
+[Science@ASU](https://science.asu.edu/changing-face-engineering-female-students) | December 19, 2016
 
-Science@ASU | December 19, 2016
-
-https://science.asu.edu/changing-face-engineering-female-students
-
-ASU Now | December 19, 2016
-
-https://asunow.asu.edu/20161219-changing-face-engineering-female-students
+[ASU Now](https://asunow.asu.edu/20161219-changing-face-engineering-female-students) | December 19, 2016
 
 > **Waverly Roeger**
 >
@@ -95,15 +79,13 @@ https://asunow.asu.edu/20161219-changing-face-engineering-female-students
 >
 > “It’s important to recognize the value that diversity brings to teams of engineers who are engineering for a diverse population,” Roeger said.
 
-## Honorable Mentions of the Look Twice, Save A Life Scholarship
-https://www.insuranceproviders.com/honorable-mentions-of-the-look-twice-save-a-life-scholarship/
+## [Honorable Mentions of the Look Twice, Save A Life Scholarship](https://www.insuranceproviders.com/honorable-mentions-of-the-look-twice-save-a-life-scholarship/)
 
 > Waverly Roeger – 2015 Submission
 >
 > [visual art]
 
-## Lux Undergraduate Creative Review | Volume 10, 2014
-https://barretthonors.asu.edu/sites/default/files/lux_vol10_2014.pdf
+## [Lux Undergraduate Creative Review](https://barretthonors.asu.edu/sites/default/files/lux_vol10_2014.pdf) | Volume 10, 2014
 
 > Lose Yourself
 >
@@ -118,6 +100,6 @@ https://barretthonors.asu.edu/sites/default/files/lux_vol10_2014.pdf
 ## Lubbock ISD Board of Trustees Assign HR Director, Recognize Students
 Allen Corbin
 
-KFYO | October 11, 2012
+[KFYO](https://kfyo.com/lubbock-isd-board-of-trustees-assign-hr-director-recognize-students/) | October 11, 2012
 
 > The Board recognized 11 National Merit Semifinalists, 1 from Coronado High School and 10 from Lubbock High. The lone CHS student recognized is Taylor Reasoner. The 10 from LHS are Raleigh Anderson, Stephen Berg, Midora DuBose, Christine Kobaza, Alexander Martinelli, Waverly Roeger, Bethany Rolan, Ruvinee Senadheera, Samuel Whittlesey and Yu Tong Zhang.
