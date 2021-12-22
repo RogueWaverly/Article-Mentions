@@ -79,6 +79,12 @@ Monique Clement
 >
 > “It’s important to recognize the value that diversity brings to teams of engineers who are engineering for a diverse population,” Roeger said.
 
+## [Students learn leadership skills during retreat](https://innercircle.engineering.asu.edu/2015/10/19/students-learn-leadership-skills-during-retreat/)
+
+> _(Pictured from left to right) Top: Marzi Heydarian, Juan Bahena  Bottom: Nikita Bhambhani, Taruni Kancharla, Algelia Burton, Waverly Roeger, Eden Roth_
+> 
+> Leaders from Arizona State Diversity Student Organizations gathered together to collaborate, learn, and grow at the 2015 Diversity Student Organizations Leadership Retreat.
+
 ## [Honorable Mentions of the Look Twice, Save A Life Scholarship](https://www.insuranceproviders.com/honorable-mentions-of-the-look-twice-save-a-life-scholarship/)
 
 > Waverly Roeger – 2015 Submission
