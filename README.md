@@ -81,6 +81,8 @@ Monique Clement
 
 ## [Students learn leadership skills during retreat](https://innercircle.engineering.asu.edu/2015/10/19/students-learn-leadership-skills-during-retreat/)
 
+October 19, 2015
+
 > _(Pictured from left to right) Top: Marzi Heydarian, Juan Bahena  Bottom: Nikita Bhambhani, Taruni Kancharla, Algelia Burton, Waverly Roeger, Eden Roth_
 > 
 > Leaders from Arizona State Diversity Student Organizations gathered together to collaborate, learn, and grow at the 2015 Diversity Student Organizations Leadership Retreat.
