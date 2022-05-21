@@ -111,3 +111,11 @@ Allen Corbin
 [KFYO](https://kfyo.com/lubbock-isd-board-of-trustees-assign-hr-director-recognize-students/) | October 11, 2012
 
 > The Board recognized 11 National Merit Semifinalists, 1 from Coronado High School and 10 from Lubbock High. The lone CHS student recognized is Taylor Reasoner. The 10 from LHS are Raleigh Anderson, Stephen Berg, Midora DuBose, Christine Kobaza, Alexander Martinelli, Waverly Roeger, Bethany Rolan, Ruvinee Senadheera, Samuel Whittlesey and Yu Tong Zhang.
+
+## Hats Off: Return of football to Wayland brings big smiles in Plainview
+
+[Lubbock Avalanche-Journal](https://www.lubbockonline.com/story/opinion/2012/09/15/hats-return-football-wayland-brings-big-smiles-plainview/15131104007/) | September 14, 2012
+
+> Thirteen local high school seniors earned the prestigious title of National Merit Scholarship semifinalists. Fewer than 1 percent of the 1.5 million juniors who took the PSAT test last year qualified to be semifinalists.
+> 
+> Lubbock High School had 10 semifinalists: Raleigh Anderson, Stephen Berg, Midora DuBose, Christine Kobza, Alexander Martinelli, Waverly Roeger, Bethany Rolan, Ruvinee Senadheera, Samuel Whittlesey and Yu Tong Zhang.
